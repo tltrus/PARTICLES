@@ -1,6 +1,15 @@
 # PARTICLES
  C# particles controlling algorithms
 
+ # BlackHole
+
+Based on "#144 — 2D Black Hole Visualization" https://thecodingtrain.com/challenges/144-2d-black-hole-visualization
+
+My Youtube:
+
+ ![image](https://github.com/user-attachments/assets/5cddb829-04b2-4b8d-97e4-18ac6ca9862f)
+
+
 # FallingBalls
 
 My Youtube: https://youtu.be/KSjj6Yko9Rg
