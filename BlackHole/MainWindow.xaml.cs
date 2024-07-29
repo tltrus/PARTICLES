@@ -6,7 +6,7 @@ using System.Windows.Media.Imaging;
 
 namespace WpfApp
 {
-
+    // Based on "#144 — 2D Black Hole Visualization" https://thecodingtrain.com/challenges/144-2d-black-hole-visualization
     public partial class MainWindow : Window
     {
         public static int c = 41;
