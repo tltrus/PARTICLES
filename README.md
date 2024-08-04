@@ -1,7 +1,20 @@
 # PARTICLES
  C# particles controlling algorithms
 
+# BlackHole-2-DrawingVisual
+
+WPF. DrawingVisual
+
+Based on "#144 — 2D Black Hole Visualization" https://thecodingtrain.com/challenges/144-2d-black-hole-visualization
+
+My Youtube: https://youtu.be/SAJ0WHxX3XE
+
+![image](https://github.com/user-attachments/assets/0ccd2062-ec3e-476d-b0ca-8a58b1a940aa)
+
+
  # BlackHole
+
+WPF. Bitmap
 
 Based on "#144 — 2D Black Hole Visualization" https://thecodingtrain.com/challenges/144-2d-black-hole-visualization
 
