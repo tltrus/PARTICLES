@@ -37,8 +37,17 @@ Based on "#180 — Falling Sand" https://thecodingtrain.com/challenges/180-falli
 My Youtube: https://youtu.be/0eXmxrSFck0
 
 ![image](https://github.com/tltrus/PARTICLES/assets/77125487/6c0a0f0e-4ef4-4ead-b88a-cfe02a2d3407)
- 
 
+
+ # Flocking
+
+ Based on "#27 — Fireworks" https://thecodingtrain.com/challenges/27-fireworks
+
+My Youtube: 
+
+![image](https://github.com/user-attachments/assets/17b42245-4b82-4569-81e4-baaddafcc998)
+
+ 
 # Flocking-particles
 
 Based on Coding Challenge #124 - Flocking Simulation: https://thecodingtrain.com/challenges/124-flocking-simulation
