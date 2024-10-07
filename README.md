@@ -6,7 +6,7 @@
 WPF. DrawingVisual
 
 - Based on: "#144 — 2D Black Hole Visualization" https://thecodingtrain.com/challenges/144-2d-black-hole-visualization
-- My Youtube: https://youtu.be/3CSrflZBN6o
+- Youtube: https://youtu.be/3CSrflZBN6o
 
 ![image](https://github.com/user-attachments/assets/0ccd2062-ec3e-476d-b0ca-8a58b1a940aa)
 
@@ -16,14 +16,14 @@ WPF. DrawingVisual
 WPF. Bitmap
 
 - Based on: "#144 — 2D Black Hole Visualization" https://thecodingtrain.com/challenges/144-2d-black-hole-visualization
-- My Youtube: https://youtu.be/SAJ0WHxX3XE
+- Youtube: https://youtu.be/SAJ0WHxX3XE
 
  ![image](https://github.com/user-attachments/assets/5cddb829-04b2-4b8d-97e4-18ac6ca9862f)
 
 
 # FallingBalls
 
-- My Youtube: https://youtu.be/KSjj6Yko9Rg
+- Youtube: https://youtu.be/KSjj6Yko9Rg
 
 ![image](https://github.com/user-attachments/assets/ef20934d-6a45-4b2d-80b6-421d6a2566f6)
 
@@ -31,7 +31,7 @@ WPF. Bitmap
  # FallingSand
 
 - Based on: "#180 — Falling Sand" https://thecodingtrain.com/challenges/180-falling-sand
-- My Youtube: https://youtu.be/0eXmxrSFck0
+- Youtube: https://youtu.be/0eXmxrSFck0
 
 ![image](https://github.com/tltrus/PARTICLES/assets/77125487/6c0a0f0e-4ef4-4ead-b88a-cfe02a2d3407)
 
@@ -39,7 +39,7 @@ WPF. Bitmap
  # Fireworks
 
 - Based on: "#27 — Fireworks" https://thecodingtrain.com/challenges/27-fireworks
-- My Youtube: https://youtu.be/erdkqnvzFK0
+- Youtube: https://youtu.be/erdkqnvzFK0
 
 ![image](https://github.com/user-attachments/assets/17b42245-4b82-4569-81e4-baaddafcc998)
 
@@ -47,7 +47,7 @@ WPF. Bitmap
 # Flocking-particles
 
 - Based on: #124 - Flocking Simulation: https://thecodingtrain.com/challenges/124-flocking-simulation
-- My Youtube: https://youtu.be/eJ3fxWAE2B8
+- Youtube: https://youtu.be/eJ3fxWAE2B8
 
 ![image](https://github.com/tltrus/PARTICLES/assets/77125487/cbdccc35-def0-447f-8ebc-05c2b0ead8ff)
 
@@ -55,7 +55,7 @@ WPF. Bitmap
 # Flocking-particles-2
 
 - Based on: #124 - Flocking Simulation: https://thecodingtrain.com/challenges/124-flocking-simulation
-- My Youtube: https://youtu.be/eJ3fxWAE2B8
+- Youtube: https://youtu.be/eJ3fxWAE2B8
 
 ![image](https://github.com/user-attachments/assets/5c8582ba-8596-479f-9206-5dbb200ab89f)
 
@@ -63,6 +63,6 @@ WPF. Bitmap
 # PerlinNoise-FlowField
 
 - Based on "#24 — Perlin Noise Flow Field" https://thecodingtrain.com/challenges/24-perlin-noise-flow-field
-- My Youtube: https://youtu.be/YNb2DO1VBF4
+- Youtube: https://youtu.be/YNb2DO1VBF4
 
 ![image](https://github.com/tltrus/PARTICLES/assets/77125487/b6127539-01bf-4da3-9402-7f5ba9043b2f)
