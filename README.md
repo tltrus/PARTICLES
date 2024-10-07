@@ -5,9 +5,8 @@
 
 WPF. DrawingVisual
 
-Based on "#144 — 2D Black Hole Visualization" https://thecodingtrain.com/challenges/144-2d-black-hole-visualization
-
-My Youtube: https://youtu.be/3CSrflZBN6o
+- Based on: "#144 — 2D Black Hole Visualization" https://thecodingtrain.com/challenges/144-2d-black-hole-visualization
+- My Youtube: https://youtu.be/3CSrflZBN6o
 
 ![image](https://github.com/user-attachments/assets/0ccd2062-ec3e-476d-b0ca-8a58b1a940aa)
 
@@ -39,7 +38,7 @@ My Youtube: https://youtu.be/0eXmxrSFck0
 ![image](https://github.com/tltrus/PARTICLES/assets/77125487/6c0a0f0e-4ef4-4ead-b88a-cfe02a2d3407)
 
 
- # Flocking
+ # Fireworks
 
  Based on "#27 — Fireworks" https://thecodingtrain.com/challenges/27-fireworks
 
@@ -55,6 +54,15 @@ Based on Coding Challenge #124 - Flocking Simulation: https://thecodingtrain.com
 My Youtube: https://youtu.be/eJ3fxWAE2B8
 
 ![image](https://github.com/tltrus/PARTICLES/assets/77125487/cbdccc35-def0-447f-8ebc-05c2b0ead8ff)
+
+
+# Flocking-particles-2
+
+Based on Coding Challenge #124 - Flocking Simulation: https://thecodingtrain.com/challenges/124-flocking-simulation
+
+My Youtube: https://youtu.be/eJ3fxWAE2B8
+
+![image](https://github.com/user-attachments/assets/5c8582ba-8596-479f-9206-5dbb200ab89f)
 
 
 # PerlinNoise-FlowField
