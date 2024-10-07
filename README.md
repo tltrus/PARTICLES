@@ -39,7 +39,7 @@ WPF. Bitmap
  # Fireworks
 
 - Based on: "#27 — Fireworks" https://thecodingtrain.com/challenges/27-fireworks
-- My Youtube: 
+- My Youtube: https://youtu.be/erdkqnvzFK0
 
 ![image](https://github.com/user-attachments/assets/17b42245-4b82-4569-81e4-baaddafcc998)
 
