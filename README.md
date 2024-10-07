@@ -55,7 +55,7 @@ WPF. Bitmap
 # Flocking-particles-2
 
 - Based on: #124 - Flocking Simulation: https://thecodingtrain.com/challenges/124-flocking-simulation
-- Youtube: https://youtu.be/eJ3fxWAE2B8
+- Youtube: https://youtu.be/yG5NHHTkRHM
 
 ![image](https://github.com/user-attachments/assets/5c8582ba-8596-479f-9206-5dbb200ab89f)
 
