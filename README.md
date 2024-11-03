@@ -48,6 +48,7 @@ WPF. Bitmap
 
 - Based on: "#78 — Simple Particle System" https://thecodingtrain.com/challenges/78-simple-particle-system
 - Youtube:
+- Rutube: https://rutube.ru/video/fe218f910a55396c7d7936e35a57ec4c/
   
 ![image](https://github.com/user-attachments/assets/14b3498e-390e-444f-b94a-a81e90c1697c)
 
