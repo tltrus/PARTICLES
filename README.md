@@ -43,6 +43,14 @@ WPF. Bitmap
 
 ![image](https://github.com/user-attachments/assets/17b42245-4b82-4569-81e4-baaddafcc998)
 
+
+# Fire-bitmap
+
+- Based on: "#78 — Simple Particle System" https://thecodingtrain.com/challenges/78-simple-particle-system
+- Youtube:
+  
+![image](https://github.com/user-attachments/assets/14b3498e-390e-444f-b94a-a81e90c1697c)
+
  
 # Flocking-particles
 
