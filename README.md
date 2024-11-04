@@ -52,7 +52,15 @@ WPF. Bitmap
   
 ![image](https://github.com/user-attachments/assets/14b3498e-390e-444f-b94a-a81e90c1697c)
 
- 
+
+# Fire-drawingVisual
+
+DrawingVisual is used.
+- Based on: "#78 — Simple Particle System" https://thecodingtrain.com/challenges/78-simple-particle-system
+
+![image](https://github.com/user-attachments/assets/39d84957-76d4-4d58-9ae1-3b2855c21161)
+
+
 # Flocking-particles
 
 - Based on: #124 - Flocking Simulation: https://thecodingtrain.com/challenges/124-flocking-simulation
