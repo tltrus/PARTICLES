@@ -57,7 +57,7 @@ WPF. Bitmap
 
 DrawingVisual is used.
 - Based on: "#78 — Simple Particle System" https://thecodingtrain.com/challenges/78-simple-particle-system
-- Youtube:
+- Youtube: https://youtu.be/giI6qv2Q_WY
 - Rutube: https://rutube.ru/video/95bf914bade8495bafc12b9b8e646483/
 
 ![image](https://github.com/user-attachments/assets/39d84957-76d4-4d58-9ae1-3b2855c21161)
