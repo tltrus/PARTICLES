@@ -25,7 +25,7 @@ WPF. Bitmap
 
 WPF. Bitmap
 
-- Youtube: 
+- Youtube: https://youtu.be/F71rxW_vFgQ
 
 ![image](https://github.com/user-attachments/assets/879098bb-3858-4b17-800d-a892a19cb9a7)
 
