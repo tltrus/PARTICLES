@@ -21,6 +21,16 @@ WPF. Bitmap
  ![image](https://github.com/user-attachments/assets/5cddb829-04b2-4b8d-97e4-18ac6ca9862f)
 
 
+# Electric-charges
+
+WPF. Bitmap
+
+- Youtube: 
+
+![image](https://github.com/user-attachments/assets/879098bb-3858-4b17-800d-a892a19cb9a7)
+
+
+
 # FallingBalls
 
 - Youtube: https://youtu.be/KSjj6Yko9Rg
