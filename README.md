@@ -95,6 +95,15 @@ DrawingVisual is used.
 ![image](https://github.com/user-attachments/assets/5c8582ba-8596-479f-9206-5dbb200ab89f)
 
 
+# Fluid-bitmap
+
+- Based on: #132 - Fluid: https://thecodingtrain.com/challenges
+- Youtube:
+- Rutube: 
+
+<img width="526" height="560" alt="image" src="https://github.com/user-attachments/assets/eae92850-03c2-4808-b443-3530d2d06a94" />
+
+
 # PerlinNoise-FlowField
 
 - Based on "#24 — Perlin Noise Flow Field" https://thecodingtrain.com/challenges/24-perlin-noise-flow-field
