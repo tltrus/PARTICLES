@@ -1,0 +1,7 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fluid Simulation" Height="555" Width="530">
+    <Grid Name="g" Background="Black" HorizontalAlignment="Center" Width="520" Height="520" VerticalAlignment="Top">
+    </Grid>
+</Window>
