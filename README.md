@@ -98,7 +98,7 @@ DrawingVisual is used.
 # Fluid-bitmap
 
 - Based on: #132 - Fluid: https://thecodingtrain.com/challenges
-- Youtube:
+- Youtube: https://youtu.be/ZZ78FdEZnM4
 - Rutube: https://rutube.ru/video/b741f6960fd8d1fe142f3b51b120e97c/
 
 <img width="526" height="560" alt="image" src="https://github.com/user-attachments/assets/eae92850-03c2-4808-b443-3530d2d06a94" />
